@@ -40,7 +40,7 @@ DB_URI = os.environ.get("DATABASE_URL", "postgres://pjzwapdl:8Si1JHQxMtBw4veZt60
 
 # ID dari Channel Atau Group Untuk Wajib Subscribenya
 FORCE_SUB_CHANNEL = int(os.environ.get("FORCE_SUB_CHANNEL", "-1002006793937"))
-FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "0"))
+FORCE_SUB_GROUP = int(os.environ.get("FORCE_SUB_GROUP", "-1001808652335"))
 
 # Tulisan joinnya mau gimana
 BUTTONS_JOIN_TEXT = os.environ.get("BUTTONS_JOIN_TEXT", "ᴊᴏɪɴ ᴅᴜʟᴜ ꜱᴇʙᴇʟᴜᴍ ɴᴏɴᴛᴏɴ")
